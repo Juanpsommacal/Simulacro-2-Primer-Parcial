@@ -25,6 +25,7 @@ public class Main {
         System.out.println("/n--------Aumentando todo------/n");
         garage.actualizarPrecios(10, 12, 8, 5, 15);
         garage.mostrarGarage();
+        System.out.println("Todo listo.");
 
     }
 }
